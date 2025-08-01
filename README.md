@@ -6,8 +6,9 @@
 
 # System Architecture
 
+![final7 drawio](https://github.com/user-attachments/assets/aab70f0a-3f6d-4c3c-9910-99fc0dcdf785)
 
-![final6 drawio](https://github.com/user-attachments/assets/e694dd47-f0d8-4d8f-bf96-825a98895711)
+
 
 
 
