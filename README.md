@@ -5,8 +5,9 @@
 - Data real-time cho current status
 
 # System Architecture
+![final9 drawio](https://github.com/user-attachments/assets/189b885a-de5c-4960-9ee9-5f19db1f41b2)
 
-![final7 drawio](https://github.com/user-attachments/assets/aab70f0a-3f6d-4c3c-9910-99fc0dcdf785)
+
 
 
 
