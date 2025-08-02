@@ -5,7 +5,9 @@
 - Data real-time cho current status
 
 # System Architecture
-![final12 drawio](https://github.com/user-attachments/assets/1fe41a35-d7e6-4075-8358-688038607297)
+
+![final13 drawio](https://github.com/user-attachments/assets/c57ccc4a-f147-4464-b3cf-e7bcb95061dc)
+
 
 # Set up 
 # Estimate Gold Layer size:
