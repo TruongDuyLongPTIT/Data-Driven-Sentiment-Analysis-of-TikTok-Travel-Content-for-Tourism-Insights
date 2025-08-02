@@ -7,13 +7,6 @@
 # System Architecture
 ![final11 drawio](https://github.com/user-attachments/assets/1bc7bdaf-5669-4511-8d0f-990e98652a57)
 
-
-
-
-
-
-
-
 # Set up 
 # Estimate Gold Layer size:
 - DIM_LOCATION:     20 records
