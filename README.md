@@ -6,7 +6,8 @@
 - Data real-time cho current status
 
 # System Architecture
-![final17 drawio](https://github.com/user-attachments/assets/9509dd22-2b7d-4cb5-bcbf-df12167b8656)
+![final19 drawio](https://github.com/user-attachments/assets/d36d84ef-5baf-47a9-aa98-64e69f58ca95)
+
 
 
 
@@ -22,4 +23,4 @@
 => Total: ~176K records (very lightweight!)
 
 # Programming languages
-- Python for: 
+- Python for: Data Source to Data Ingest
