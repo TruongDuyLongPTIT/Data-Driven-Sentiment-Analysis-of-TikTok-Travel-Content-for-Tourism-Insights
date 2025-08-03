@@ -25,3 +25,9 @@
 # 📟 Programming languages
 - Python for: Data Source -> Data Ingestion and Parsing -> Database | Airflow | Great expectation
 - Scala for: Other
+
+## 🚀 Skills
+- 💻 Python, Scala, Java
+- 📊 Data Engineering, ETL, Data Warehouse
+- ☁️ AWS, Azure, GCP
+- 🔒 Security Background
