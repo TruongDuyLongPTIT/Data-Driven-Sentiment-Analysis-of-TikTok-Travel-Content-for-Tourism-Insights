@@ -13,8 +13,8 @@
 
 
 
-## Set up 
-## Estimate Gold Layer size:
+## ⚙️ Set up 
+## ⚡ Estimate Gold Layer size:
 - DIM_LOCATION:     20 records
 - DIM_DATE:         730 records  
 - FACT_AIR_QUALITY: ~175K records/year
