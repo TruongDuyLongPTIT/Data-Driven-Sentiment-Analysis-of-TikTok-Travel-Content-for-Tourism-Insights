@@ -22,5 +22,6 @@
 
 => Total: ~176K records (very lightweight!)
 
-# Programming languages
-- Python for: Data Source to Data Ingest
+# 📟 Programming languages
+- Python for: Data Source -> Data Ingestion and Parsing -> Database | Airflow | Great expectation
+- Scala for: Other
