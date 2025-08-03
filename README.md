@@ -5,7 +5,7 @@
 - Hover/click → Advanced Station Details tooltip
 - Data real-time cho current status
 
-## System Architecture
+## 🛰️ System Architecture
 ![final19 drawio](https://github.com/user-attachments/assets/d36d84ef-5baf-47a9-aa98-64e69f58ca95)
 
 
