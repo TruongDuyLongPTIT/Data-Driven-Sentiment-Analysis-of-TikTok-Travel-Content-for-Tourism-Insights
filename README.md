@@ -1,3 +1,4 @@
+
 # 🎯 YÊU CẦU CỤ THỂ:
 
 - Bản đồ Vietnam với các điểm monitoring stations
@@ -5,7 +6,8 @@
 - Data real-time cho current status
 
 # System Architecture
-![final16 drawio](https://github.com/user-attachments/assets/246abe95-88da-46d7-af39-8b1212179258)
+![final17 drawio](https://github.com/user-attachments/assets/9509dd22-2b7d-4cb5-bcbf-df12167b8656)
+
 
 
 
@@ -18,3 +20,6 @@
 - MART_CURRENT:     20 records (real-time)
 
 => Total: ~176K records (very lightweight!)
+
+# Programming languages
+- Python for: 
