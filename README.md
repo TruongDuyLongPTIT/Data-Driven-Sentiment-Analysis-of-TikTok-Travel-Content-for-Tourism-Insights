@@ -7,7 +7,8 @@
 
 ## 🛰️ System Architecture
 
-![final22 drawio](https://github.com/user-attachments/assets/9bfba764-5bc6-4b85-b7c6-9a8dc86ed47b)
+![final25 drawio](https://github.com/user-attachments/assets/9e094684-a290-4b81-8c4a-93fe2b955d82)
+
 
 
 
