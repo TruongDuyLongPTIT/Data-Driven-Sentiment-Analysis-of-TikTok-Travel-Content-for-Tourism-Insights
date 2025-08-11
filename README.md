@@ -1,5 +1,5 @@
 
-## 🎯 YÊU CẦU CỤ THỂ:
+## 🎯 Yêu cầu cụ thể;
 
 - Bản đồ Vietnam với các điểm monitoring stations
 - Hover/click → Advanced Station Details tooltip
