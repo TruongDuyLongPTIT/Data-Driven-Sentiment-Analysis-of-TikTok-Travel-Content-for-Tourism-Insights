@@ -13,9 +13,6 @@
 
 
 
-
-
-
 ## ⚙️ Set up 
 ## ⚡ Estimate Gold Layer size:
 - DIM_LOCATION:     20 records
