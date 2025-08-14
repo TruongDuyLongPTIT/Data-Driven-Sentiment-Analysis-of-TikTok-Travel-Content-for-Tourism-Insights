@@ -1,3 +1,4 @@
+## Mục đích của project này sẽ trả lời các câu hỏi sau:
 
 ## 🎯 Yêu cầu cụ thể;
 
@@ -31,3 +32,5 @@
 - 📊 Data Engineering, ETL, Data Warehouse
 - ☁️ AWS, Azure, GCP
 - 🔒 Security Background
+
+## Nếu anh chị
