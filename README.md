@@ -5,7 +5,7 @@
 - Phân tích cảm xúc của từng comment (bằng AI) sau đó thống kê để đưa ra nhận định về thị hiếu du lịch trong thời điểm hiện tại
 - Thu thập thông tin những người dùng quan tâm đến địa điểm du lịch và nhắn tin giới thiệu cho họ tour du lịch mà họ đang quan tâm
   + Ví dụ: 1 bài đăng về du lịch ở Mù Căng Chải thì những người tim bài đăng và những người có comment tích cực về địa điểm này là tệp khách hàng tiềm     năng => Thu thập danh sách khách hàng này và sau này có thể chạy 1 tool gửi tin nhắn cho họ về tour du lịch Mù Căng Chải mà họ đang quan tâm
-- 
+- Thu thập danh sách follower để gửi tin nhắn về tour du lịch cho họ.
 
 ## 🛰️ System Architecture
 
