@@ -18,7 +18,7 @@
 1. Cài đặt Miniconda để quản lý môi trường Python
   - Cài đặt playwright (thư viện python phục vụ cho crawl)
   - Cài đặt craw4ai để crawl web data tự động bằng AI (https://github.com/unclecode/crawl4ai)
-2. Cài 
+2. Cài đặt thư viện Transformers để sử dụng model phoBert để phân tích cảm xúc comment
 ## ⚡ Estimate Gold Layer size:
 - DIM_LOCATION:     20 records
 - DIM_DATE:         730 records  
