@@ -1,7 +1,7 @@
 ## Kịch bản:
 - Thiết kế một Data-pipeline để phân tích thị hiếu thị trường du lịch (trong nước)
 
-=> Đưa ra các thống kê về mức độ quan tâm tới từng địa điểm du lịch dựa trên số view, thả tim, số lượt chia sẻ, save, repost, comment.
+=> Đưa ra Top địa điểm hot nhất theo views, likes, số comment, sentiment tích cực.
 
 => Đưa ra nhận xét về chất lượng (dịch vụ, cảnh quan) dựa trên phân tích tỷ lệ comment khen, chê của từng địa điểm du lịch.
 
