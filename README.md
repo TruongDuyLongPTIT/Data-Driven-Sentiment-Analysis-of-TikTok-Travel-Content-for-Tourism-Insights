@@ -1,6 +1,13 @@
+## Kịch bản:
+- Thiết kế một Data-pipeline để phân tích thị hiếu thị trường du lịch (trong nước)
+=> Đưa ra các thống kê về mức độ quan tâm tới từng địa điểm du lịch dựa trên số view, thả tim, số lượt chia sẻ, save, repost, comment.
+=> Đưa ra nhận xét về chất lượng (dịch vụ, cảnh quan) dựa trên phân tích tỷ lệ comment khen, chê của từng địa điểm du lịch.
+=> Thu thập danh sách khách hàng mục tiêu (những người follower kênh tiktok, những người tim/comment tích cực tương ứng với mỗi địa điểm du lịch) để giới thiệu tour du lịch cho họ.
+
 ## Mục đích của project này sẽ trả lời các câu hỏi sau:
 
-## 🎯 Yêu cầu cụ thể;
+
+## 🎯 Yêu cầu cụ thể:
 
 - Phân tích cảm xúc của từng comment (bằng AI) sau đó thống kê để đưa ra nhận định về thị hiếu du lịch trong thời điểm hiện tại
 - Thu thập thông tin những người dùng quan tâm đến địa điểm du lịch và nhắn tin giới thiệu cho họ tour du lịch mà họ đang quan tâm
