@@ -18,7 +18,8 @@
 - Thu thập danh sách follower để gửi tin nhắn về tour du lịch cho họ.
 
 ## 🛰️ System Architecture
-![final27 drawio](https://github.com/user-attachments/assets/be8598f2-78d8-48f9-b0ba-dc899346acad)
+
+![final28 drawio](https://github.com/user-attachments/assets/9188e6d6-4296-4e29-bd14-272928609054)
 
 
 
