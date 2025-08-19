@@ -19,7 +19,8 @@
 
 ## 🛰️ System Architecture
 
-![final25 drawio](https://github.com/user-attachments/assets/9e094684-a290-4b81-8c4a-93fe2b955d82)
+
+![fnal27 drawio](https://github.com/user-attachments/assets/2f8178e3-3fb1-4e0f-877c-5c24a20b359c)
 
 
 
