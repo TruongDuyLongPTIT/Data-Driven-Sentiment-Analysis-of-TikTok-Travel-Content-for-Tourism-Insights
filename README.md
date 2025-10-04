@@ -51,4 +51,3 @@
 - ☁️ AWS, Azure, GCP
 - 🔒 Security Background
 
-## Nếu anh chị
